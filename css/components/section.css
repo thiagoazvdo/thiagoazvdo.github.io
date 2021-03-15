@@ -2,5 +2,15 @@
     background-color: #4C5B84;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #000;
+    border-bottom: 10px solid #3A4042;
+}
+
+.section .main-title {
+    margin-bottom: 60px;
+}
+
+.section-second {
+    background-color: #000;
+    width: 1440;
+    height: auto;
 }
